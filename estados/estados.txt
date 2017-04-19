@@ -1,0 +1,47 @@
+Regi�o Norte � 07 estados
+
+1 - Amazonas (AM) = Manaus
+2 - Roraima (RR) = Boa Vista
+3 - Amap� (AP) = Macap�
+4 - Par� (PA) = Bel�m
+5 - Tocantins (TO) = Palmas
+6 - Rond�nia (RO) = Porto Velho
+7 - Acre (AC) = Rio Branco
+
+
+
+Regi�o Nordeste � 09 estados
+
+8 - Maranh�o (MA) = S�o Luiz
+9 - Piau� (PI) = Teresina
+10 - Cear� (CE) = Fortaleza
+11 - Rio Grande do Norte (RN) = Natal
+12 - Pernambuco (PE) = Recife
+13 - Para�ba (PB) = Jo�o Pessoa
+14 - Sergipe (SE) = Aracaju
+15 - Alagoas (AL) = Macei�
+16 - Bahia (BA) = Salvador
+
+
+
+
+Regi�o Centro-Oeste � 03 estados
+
+17 - Mato Grosso (MT) = Cuiab�
+18 - Mato Grosso do Sul (MS) = Campo Grande
+19 - Goi�s (GO) = Goi�nia
+
+
+
+
+Regi�o Sudeste � 04 estados
+
+20 - S�o Paulo (SP) = S�o Paulo
+21 - Rio de Janeiro (RJ) = Rio de Janeiro
+22 - Esp�rito Santo (ES) = Vit�ria
+23 - Minas Gerais (MG) = Belo Horizonte
+Regi�o Sul � 03 estados
+
+24 - Paran� (PR) = Curitiba
+25 - Rio Grande do Sul (RS) = Porto Alegre
+26 - Santa Catarina (SC) = Florian�polis
